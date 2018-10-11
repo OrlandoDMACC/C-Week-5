@@ -93,3 +93,5 @@ c:\users\ajbehncke1\source\repos\WebApplication2\WebApplication2\bin\EntityFrame
 c:\users\ajbehncke1\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
 c:\users\ajbehncke1\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.xml
 c:\users\ajbehncke1\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\olwinters\source\repos\week5new\aspEmployee\obj\Debug\WebApplication2.dll
+C:\Users\olwinters\source\repos\week5new\aspEmployee\obj\Debug\WebApplication2.pdb
